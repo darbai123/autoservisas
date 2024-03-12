@@ -14,6 +14,7 @@ body {
     background-image: url(Images/13.png);
     background-attachment: fixed;
     color: #fff;
+    
 }
 #header {
     width: 100%;
@@ -365,6 +366,7 @@ nav .fas{
     
 #header{
     background-image: url(Images/13.png);
+    
     }
     .logo {
         width: 60px;
@@ -432,6 +434,9 @@ nav .fas{
     color: #61b752;
     margin-top: 10px;
     display: block;
+}
+.darbai123{
+    color:#61b752; 
 }
 .darbai123:hover{
     color: white;
