@@ -33,7 +33,7 @@ nav{
 }
 .logo {
     width: 140px;
-   
+    background-blend-mode: multiply;
     position:  top;
 }
 nav ul li{
@@ -362,8 +362,14 @@ nav .fas{
 }
 
 @media only screen and (max-width: 600px){
+    
 #header{
-    background-image: url();
+    background-image: url(Images/13.png);
+    }
+    .logo {
+        width: 60px;
+       background-blend-mode: multiply;
+        position:  top;
     }
     .header-text{
         margin-top: 100%;
