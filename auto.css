@@ -179,7 +179,7 @@ nav ul li a:hover::after{
     transform: translateY(-10px);
 }
 .daugiau{
-     color:   #3a0113;
+    color:rgb(125, 151, 10);
 }
 .daugiau:hover{
     color:white;
